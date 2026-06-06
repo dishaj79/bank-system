@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data (remove this line if you want to commit saved data)
+data/bank_data.json
+data/test_*.json
+
+# IDE
+.vscode/
+.idea/
